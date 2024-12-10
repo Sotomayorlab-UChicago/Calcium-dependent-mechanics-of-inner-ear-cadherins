@@ -1,0 +1,13 @@
+﻿Construct,Site 1,Site 2,Site 3,Rupture,Fpeak (pN) @ 0.1 nm/ns
+EC19-20,-,-,-,beta sheet,827.2
+EC19-20,-,-,Ca2+,beta sheet,896
+EC19-20,Ca2+,-,-,beta sheet,895.2
+EC19-20,-,Ca2+,-,beta sheet,655
+EC19-20,Ca2+,Ca2+,-,beta sheet,653.1
+EC17-25,-,-,-,beta sheet,634.53
+EC17-25,-,-,Ca2+,beta sheet,765.69
+EC19-20,-,Ca2+,Ca2+,Ca2+ coordination,1147.6
+EC19-20,Ca2+,Ca2+,Ca2+,Ca2+ coordination,1204.1
+EC19-20,Ca2+,-,Ca2+,Ca2+ coordination,798.1
+EC17-25,-,Ca2+,Ca2+,Ca2+ coordination,1016.92
+EC17-25,Ca2+,Ca2+,Ca2+,Ca2+ coordination,991.58
