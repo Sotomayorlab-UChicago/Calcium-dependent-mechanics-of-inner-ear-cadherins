@@ -10,7 +10,19 @@ paper are defined in the Manifest.toml and Project.toml files. To install
 the environment simply navigate to this directory in the Julia REPL. Then
 switch to the Package mode by hitting ']'. Next type 'activate ./' and hit
 enter. Then type 'instantiate' and hit enter. The packages will download
-and install automatically.
+and install automatically. If there are any compilation issues, we recommend
+next typing 'update' and hitting enter.
+
+##### Installing Jupyter
+To run the notebooks, you will also need a working version of Jupyter. One
+option is to download Anaconda (https://www.anaconda.com/) and use the 
+anaconda navigator to open Jupyter through a GUI. This is a particularly
+simple option for Windows users.
+
+A second possibility is to install Jupyter through your local python 
+installation in a terminal. This can be a simple choice for Linux users.
+For example, type 'python3 -m ensurepip --upgrade'. Then type 'pip3 install
+jupyter'. Then type 'jupyter notebook' to launch Jupyter.
 
 ##### Performing Ca2+ dependent statistical analysis of inner-ear cadherin
 states
